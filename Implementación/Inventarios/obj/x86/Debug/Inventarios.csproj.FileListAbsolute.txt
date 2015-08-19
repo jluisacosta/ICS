@@ -1,0 +1,225 @@
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\Miguel\Mis documentos\Semestre 10\SI\SI_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Promedio_comp.FPromedio.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Promedio_comp.FPromedio.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\Sistema_Control_Inventarios\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FCapturaDatos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FCapturaDatos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Promedio_comp.FPromedio.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FVentas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FCapturaDatos.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenProduccion.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FVentas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Promedio_comp.FPromedio.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Miguel\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProd.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProd.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenProduccion.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.FrecuenciaCompra.FFrecuencia.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Ganancias.FGanancias.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Solvencia.FSolvencia.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Trafico.FTrafico.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMovimientosMP.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\bin\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Form1.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FAgregaMateria.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProd.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FBuscarProv.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FCapturaDatos.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FClientes.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FEmpleados.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMateriasPrimas.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FMovimientosMP.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenCompra.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FOrdenProduccion.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FPrincipal.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProductos.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FProveedores.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReceta.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FReportes.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Formularios.FVentas.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Properties.Resources.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Corte.FCorte.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Porcentaje_prov.FPorcentaje.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Promedio_comp.FPromedio.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Especiales.Ventas_emp.FVentasEmp.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas.Facturas.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Facturas_Clientes.Facturas_Clientes.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.FrecuenciaCompra.FFrecuencia.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Ganancias.FGanancias.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Solvencia.FSolvencia.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.Trafico.FTrafico.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMovimientos.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.OCxProveedor.FOCproveedor.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Ordenes_Compra.FOrdenes_Compra.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Orden_Produccion.FOrden_Produccion.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Proveedores_Activos.FProveedores_Act.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Movimientos.FMasV.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.exe
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.pdb
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Gerenciales.Gasto_prom_insumos.FGasto_PI.resources
+C:\Documents and Settings\JLuis\Escritorio\Respaldo avance 19 Mayo 2014\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Gerenciales.Porcentaje_MP_Almacen.FPorcentaje_MPA.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Gerenciales.Gasto_prom_insumos.FGasto_PI.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.Gerenciales.Porcentaje_MP_Almacen.FPorcentaje_MPA.resources
+C:\Documents and Settings\JLuis\Mis documentos\GitHub\SCI\Implementacion\Inventarios\obj\x86\Debug\Inventarios.Reportes.FCE.PromedioVentas.FPromVentas.resources
